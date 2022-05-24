@@ -3,14 +3,14 @@ const carListOb = {
     {
       title: "Cheverloret Camaro",
       imgUrl:
-        "https://www.chevrolet.ca/content/dam/chevrolet/na/canada/english/index/performance/2022-camaro/mov/new/2022-camaro-masthead-01.jpg?imwidth=960",
+        "https://www.gmignitionupdate.com/dld/content/dam/Media/images/INTL/chevrolet/passenger-cars/camaro-coupe/2013/static-shots/Chevrolet-Camaro-Coupe-266806.jpg",
       price: 230000,
       description: "A better and fast car",
     },
     {
       title: "Hyundai Tucson",
       imgUrl:
-        "https://www.indiacarnews.com/wp-content/uploads/2022/03/2022-Hyundai-Tucson-7-Seater.jpg",
+        "https://di-enrollment-api.s3.amazonaws.com/hyundai/models/2022/tucson/colors/shimmering_silver.jpg",
       price: 260000,
       description: "A better and family car",
     },
