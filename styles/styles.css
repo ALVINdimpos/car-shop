@@ -1,6 +1,7 @@
 body {
   padding: 0;
   margin: 0;
+  font-family: "Poppins", sans-serif;
 }
 .header {
   top: 0;
@@ -11,13 +12,11 @@ body {
   text-transform: uppercase;
   color: white;
   background: green;
-  padding-left: 0rem;
 }
 
 .header-title {
   display: flex;
   justify-content: space-between;
-  
 }
 
 .list {
@@ -55,5 +54,21 @@ button {
   color: white;
   border: none;
   cursor: pointer;
+  margin-bottom: 1rem;
+}
+.add-car{
+  cursor: pointer;
+  margin-right: 3rem;
+}
+.main{
+  padding: 4rem;
+  top:5em
+}
+main form{
+  display:flex;
+  flex-direction: column;
+}
+.main form input{
+  padding:2rem;
   margin-bottom: 1rem;
 }
